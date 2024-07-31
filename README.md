@@ -21,11 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-(./screenshot.jpg)
+![](./screenshot.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Check the live site](https://jani-b.github.io/FEM-social-links-profile/)
 
 ## My process
 
