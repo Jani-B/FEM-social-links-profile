@@ -19,7 +19,7 @@
 
 .card {
   background-color: hsl(0, 0%, 12%);
-  padding: 1rem;
+  padding: 1.2rem;
   display: block;
   text-align: center;
   border-radius: 15px;
@@ -83,5 +83,9 @@
     cursor: pointer;
     color: hsl(0, 0%, 8%);
     font-weight: 600;
+  }
+
+  .card {
+    padding: 2rem;
   }
 }
