@@ -77,7 +77,7 @@
   border-radius: 5px;
 }
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 768px) {
   .link_div li:hover {
     background-color: hsl(75, 94%, 57%);
     cursor: pointer;
